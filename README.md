@@ -81,16 +81,12 @@
 
 <div align="center">
 
-<a href="https://github.com/hyperMoss">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperMoss&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="hyperMoss GitHub 贡献活动图" width="100%"/>
-</a>
-
 <img src="https://github-readme-stats.vercel.app/api?username=hyperMoss&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="hyperMoss GitHub 统计" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperMoss&amp;layout=compact&amp;hide_border=true" alt="hyperMoss 仓库语言分布" height="160"/>
 
 </div>
 
-<sub>统计与活动图依赖第三方动态图片服务，可能偶尔限流或加载失败；语言占比仅反映仓库代码统计，不代表技术能力。</sub>
+<sub>统计卡片依赖第三方动态图片服务，可能偶尔限流或加载失败；语言占比仅反映仓库代码统计，不代表技术能力。</sub>
 
 ---
 
