@@ -1,69 +1,103 @@
 <div align="center">
 
-# Hi, I'm hyperMoss 👋
+<img src="./assets/profile-hero.svg" width="100%" alt="hyperMoss — Build, learn, ship" />
 
-**Build things, learn by shipping.**
+<br />
 
-专注于 Web 开发、AI 应用、自动化工具与跨端产品。这里记录我正在做的项目、技术探索和一些有趣的小工具。
+**你好，我是 hyperMoss。** 喜欢用代码解决具体问题，也喜欢把零散的想法打磨成可用的产品。
 
-[![GitHub followers](https://img.shields.io/github/followers/hyperMoss?style=flat-square&label=Followers)](https://github.com/hyperMoss?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/hyperMoss?style=flat-square&label=Stars)](https://github.com/hyperMoss?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=hyperMoss&style=flat-square)](https://github.com/hyperMoss)
+[![GitHub followers](https://img.shields.io/github/followers/hyperMoss?style=flat-square&logo=github&label=Followers)](https://github.com/hyperMoss?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/hyperMoss?style=flat-square&logo=github&label=Stars)](https://github.com/hyperMoss?tab=repositories)
 
-[重点项目](#-重点项目) · [开发工具](#-开发工具与实践) · [技术方向](#-技术方向) · [更多仓库](#-更多仓库)
-
-</div>
-
-## 🚀 重点项目
-
-| 项目 | 简介 | 技术 / 平台 |
-| --- | --- | --- |
-| [**恰饭 · Qiafan**](https://github.com/hyperMoss/qiafan) | 以文字阅读为主的饭否客户端；已实现 Android 信息流、通知、搜索、动态详情和互动等功能 | Kotlin / Android / Kuikly |
-| [**AI Growth Ops**](https://github.com/hyperMoss/geiwokehu) | 本地获客工作台：关键词采集、潜客筛选、客户管理、分析看板与可选 AI 辅助分析 | Next.js / Python / SQLite |
-| [**AI 面试 Agent**](https://github.com/hyperMoss/tech-interview) | 面向题库、简历解析、模拟面试、评估和专项练习的后端系统 | Python / FastAPI / PostgreSQL |
-| [**山野光线**](https://github.com/hyperMoss/outdoor-tools) | 为户外和风光摄影设计的微信小程序，整合天气、光线时刻、朝晚霞预测和拍照地 | 微信小程序 / JavaScript |
-| [**dsh-diary**](https://github.com/hyperMoss/dsh-diary) | 为 DeepSeek Harness 提供 Markdown 日记、搜索及模板管理能力的插件 | Agent Plugin / Markdown |
-
-> 项目处于不同开发阶段；具体功能、部署要求与已验证范围，请以各项目仓库的 README 为准。
-
-## 🛠 开发工具与实践
-
-| 项目 | 解决什么问题 |
-| --- | --- |
-| [航班价格监控](https://github.com/hyperMoss/FLIGHT-TRACKER) | 自动抓取指定航线价格，筛选低价航班并推送飞书 |
-| [公司人数统计小程序](https://github.com/hyperMoss/life-elephant) | 记录人数变更、历史趋势与统计概览（Taro + Vue 3） |
-| [VitePress 自动导航配置](https://github.com/hyperMoss/vitepress-auto-config) | 根据文档目录和 Markdown 标题生成导航配置 |
-| [Swagger JSON MockServer](https://github.com/hyperMoss/Swaggerjson-MockServer) | 基于 Swagger 导出 JSON 的本地 Mock 服务示例 |
-| [Vue 3 学习实践](https://github.com/hyperMoss/vue3_teach_youself) | Vue 3 技术学习和代码实践 |
-| [ECharts Demo](https://github.com/hyperMoss/echarts-demo) | 图表与数据可视化练习 |
-
-## 💡 技术方向
-
-`TypeScript` · `JavaScript` · `Vue` · `React / Next.js` · `Python` · `FastAPI` · `Kotlin / Android` · `微信小程序` · `AI Agents` · `Automation`
-
-- **产品开发**：从原型、前端交互到服务端 API 与部署。
-- **AI + 工具**：围绕 Agent、信息处理和自动化工作流构建实用功能。
-- **跨端探索**：Web、Android 与微信小程序。
-- **持续学习**：把想法变成可运行、可验证的项目。
-
-## 📊 GitHub 活动
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperMoss&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperMoss&layout=compact&hide_border=true)
+[**精选项目**](#-精选项目) &nbsp;·&nbsp; [**工具与实验**](#-工具与实验) &nbsp;·&nbsp; [**技术栈**](#-技术栈) &nbsp;·&nbsp; [**GitHub 活动**](#-github-活动)
 
 </div>
-
-<sub>统计卡片由第三方服务生成，偶尔可能因服务限流而无法显示；语言分布不代表熟练度。部分仓库可能为学习、Fork 或二次开发项目，请以各仓库说明和提交历史为准。</sub>
-
-## 🔗 更多仓库
-
-- [查看全部公开仓库](https://github.com/hyperMoss?tab=repositories)
-- [个人博客仓库](https://github.com/hyperMoss/hyperMoss.github.io)
-- [通过 GitHub Issues 参与具体项目讨论](https://github.com/hyperMoss?tab=repositories)
 
 ---
 
-<div align="center"><sub>Keep learning · Keep building · Keep shipping</sub></div>
+## ✨ 精选项目
+
+从 Android 客户端到 AI 工作台，从后端系统到户外小程序。以下项目均可查看源码和各自的使用说明。
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hyperMoss/qiafan"><img src="./assets/project-qiafan.svg" alt="恰饭 Qiafan 项目概念封面" width="100%"/></a>
+      <h3><a href="https://github.com/hyperMoss/qiafan">恰饭 · Qiafan ↗</a></h3>
+      <p>为饭否打造的文字优先 Android 客户端。关注、通知、热门、搜索、动态详情与互动，追求安静、专注的阅读体验。</p>
+      <p><code>Kotlin</code> <code>Android</code> <code>Kuikly</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hyperMoss/geiwokehu"><img src="./assets/project-growth.svg" alt="AI Growth Ops 项目概念封面" width="100%"/></a>
+      <h3><a href="https://github.com/hyperMoss/geiwokehu">AI Growth Ops ↗</a></h3>
+      <p>本地优先的获客工作台：关键词素材采集、意向线索筛选、人工客户管理、转化分析，以及按需触发的 AI 辅助判断。</p>
+      <p><code>Next.js</code> <code>Python</code> <code>SQLite</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hyperMoss/tech-interview"><img src="./assets/project-interview.svg" alt="AI 面试 Agent 项目概念封面" width="100%"/></a>
+      <h3><a href="https://github.com/hyperMoss/tech-interview">AI 面试 Agent ↗</a></h3>
+      <p>从题库导入、简历解析到模拟面试、能力评估与专项练习的后端系统，围绕真实训练闭环设计。</p>
+      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>AI Agent</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/hyperMoss/outdoor-tools"><img src="./assets/project-outdoor.svg" alt="山野光线项目概念封面" width="100%"/></a>
+      <h3><a href="https://github.com/hyperMoss/outdoor-tools">山野光线 ↗</a></h3>
+      <p>服务户外与风光摄影的微信小程序：天气、日出日落、黄金与蓝调时间、朝晚霞预测、拍照地和指北针。</p>
+      <p><code>WeChat Mini Program</code> <code>JavaScript</code> <code>Open-Meteo</code></p>
+    </td>
+  </tr>
+</table>
+
+<sub>说明：上面的项目封面是为本主页绘制的概念插画，不是应用实机截图。项目功能与完成度以相应仓库 README 为准。</sub>
+
+## 🧰 工具与实验
+
+一些为解决具体问题而做的小工具，也包括持续学习过程中的探索。
+
+| 项目 | 简介 | 方向 |
+| :--- | :--- | :--- |
+| [**dsh-diary**](https://github.com/hyperMoss/dsh-diary) | DeepSeek Harness 的 Markdown 日记、全文搜索与模板管理插件 | AI / Plugin |
+| [**FLIGHT-TRACKER**](https://github.com/hyperMoss/FLIGHT-TRACKER) | 监控航线价格、筛选低价航班并推送飞书 | Python / Automation |
+| [**life-elephant**](https://github.com/hyperMoss/life-elephant) | 公司人数变化记录与趋势统计小程序 | Taro / Vue 3 |
+| [**vitepress-auto-config**](https://github.com/hyperMoss/vitepress-auto-config) | 按文件目录和 Markdown 标题生成 VitePress 导航的思路与示例 | JavaScript / Docs |
+| [**Swaggerjson-MockServer**](https://github.com/hyperMoss/Swaggerjson-MockServer) | 基于 Swagger 导出 JSON 的本地 Mock 服务 | Frontend / Tooling |
+| [**echarts-demo**](https://github.com/hyperMoss/echarts-demo) | 数据可视化与图表实践 | ECharts |
+
+## 🧑‍💻 技术栈
+
+**日常关注**：Web 应用、跨端开发、AI Agent、自动化、工具链与工程实践。
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,vue,react,nextjs,python,fastapi,kotlin,docker,git&amp;perline=10" alt="TypeScript, JavaScript, Vue, React, Next.js, Python, FastAPI, Kotlin, Docker, Git" />
+
+</div>
+
+<sub>技术图标代表在项目和学习中涉及的工具，不代表熟练度排名。</sub>
+
+## 📈 GitHub 活动
+
+<div align="center">
+
+<a href="https://github.com/hyperMoss">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperMoss&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="hyperMoss GitHub 贡献活动图" width="100%"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hyperMoss&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="hyperMoss GitHub 统计" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperMoss&amp;layout=compact&amp;hide_border=true" alt="hyperMoss 仓库语言分布" height="160"/>
+
+</div>
+
+<sub>统计与活动图依赖第三方动态图片服务，可能偶尔限流或加载失败；语言占比仅反映仓库代码统计，不代表技术能力。</sub>
+
+---
+
+<div align="center">
+
+**Keep learning. Keep building. Keep shipping.**
+
+[查看全部仓库](https://github.com/hyperMoss?tab=repositories) · [博客仓库](https://github.com/hyperMoss/hyperMoss.github.io)
+
+</div>
