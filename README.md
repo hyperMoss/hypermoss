@@ -17,40 +17,40 @@
 
 ## ✨ 精选项目
 
-从 Android 客户端到 AI 工作台，从后端系统到户外小程序。以下项目均可查看源码和各自的使用说明。
+近期重点投入的四个项目，涵盖 Android 客户端、AI 获客、互动剧情与模拟面试。项目介绍依据各仓库当前 README 整理。
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/hyperMoss/qiafan"><img src="./assets/project-qiafan.svg" alt="恰饭 Qiafan 项目概念封面" width="100%"/></a>
       <h3><a href="https://github.com/hyperMoss/qiafan">恰饭 · Qiafan ↗</a></h3>
-      <p>为饭否打造的文字优先 Android 客户端。关注、通知、热门、搜索、动态详情与互动，追求安静、专注的阅读体验。</p>
+      <p>文字优先的饭否 Android 客户端，支持关注信息流、通知、搜索、动态详情及互动。保留 Kuikly 多平台工程，当前以 Android 体验为主。</p>
       <p><code>Kotlin</code> <code>Android</code> <code>Kuikly</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/hyperMoss/geiwokehu"><img src="./assets/project-growth.svg" alt="AI Growth Ops 项目概念封面" width="100%"/></a>
-      <h3><a href="https://github.com/hyperMoss/geiwokehu">AI Growth Ops ↗</a></h3>
-      <p>本地优先的获客工作台：关键词素材采集、意向线索筛选、人工客户管理、转化分析，以及按需触发的 AI 辅助判断。</p>
+      <h3><a href="https://github.com/hyperMoss/geiwokehu">AI Growth Ops · geiwokehu ↗</a></h3>
+      <p>本地运行的获客工作台。围绕抖音、小红书关键词素材与评论，实现潜客初筛、人工复核、客户管理、获客看板和手动触发的 AI 分析。</p>
       <p><code>Next.js</code> <code>Python</code> <code>SQLite</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/hyperMoss/tech-interview"><img src="./assets/project-interview.svg" alt="AI 面试 Agent 项目概念封面" width="100%"/></a>
-      <h3><a href="https://github.com/hyperMoss/tech-interview">AI 面试 Agent ↗</a></h3>
-      <p>从题库导入、简历解析到模拟面试、能力评估与专项练习的后端系统，围绕真实训练闭环设计。</p>
-      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>AI Agent</code></p>
+      <a href="https://github.com/hyperMoss/story"><img src="./assets/project-story.svg" alt="岔路 Story 项目概念封面" width="100%"/></a>
+      <h3><a href="https://github.com/hyperMoss/story">岔路 · Story ↗</a></h3>
+      <p>面向故事作者的动态剧情推演 MVP。导入故事、编辑世界卡，从关键分歧点作出选择，持续推演剧情、修正草案并回顾不同路线。</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>AI</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/hyperMoss/outdoor-tools"><img src="./assets/project-outdoor.svg" alt="山野光线项目概念封面" width="100%"/></a>
-      <h3><a href="https://github.com/hyperMoss/outdoor-tools">山野光线 ↗</a></h3>
-      <p>服务户外与风光摄影的微信小程序：天气、日出日落、黄金与蓝调时间、朝晚霞预测、拍照地和指北针。</p>
-      <p><code>WeChat Mini Program</code> <code>JavaScript</code> <code>Open-Meteo</code></p>
+      <a href="https://github.com/hyperMoss/interview-agents"><img src="./assets/project-interview-agents.svg" alt="面试练习室 Interview Agents 项目概念封面" width="100%"/></a>
+      <h3><a href="https://github.com/hyperMoss/interview-agents">面试练习室 · Interview Agents ↗</a></h3>
+      <p>中文 AI 模拟面试应用：根据简历与目标岗位规划题目，支持题库、联网搜索、动态重规划、逐题反馈、能力评估与复盘报告。</p>
+      <p><code>React</code> <code>NestJS</code> <code>Hono / Mastra</code></p>
     </td>
   </tr>
 </table>
 
-<sub>说明：上面的项目封面是为本主页绘制的概念插画，不是应用实机截图。项目功能与完成度以相应仓库 README 为准。</sub>
+<sub>封面为主页专用概念插画，并非应用运行截图。功能范围、部署方式与验证状态请以对应项目 README 为准。</sub>
 
 ## 🧰 工具与实验
 
