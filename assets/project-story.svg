@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 345" width="640" height="345" role="img" aria-label="岔路 · Story interactive narrative concept cover">
+<defs><linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15192F"/><stop offset="1" stop-color="#35304C"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F4AE77"/><stop offset="1" stop-color="#CF97DB"/></linearGradient></defs>
+<rect width="640" height="345" rx="22" fill="url(#night)"/>
+<circle cx="544" cy="56" r="127" fill="#714B6D" opacity=".22"/>
+<circle cx="54" cy="335" r="114" fill="#766389" opacity=".11"/>
+<path d="M395 291 V240 Q395 216 420 193 L460 153 Q475 139 475 113 M395 240 Q395 216 370 193 L330 153 Q315 139 315 113" fill="none" stroke="#A17C9F" stroke-width="14" stroke-linecap="round" opacity=".38"/>
+<path d="M395 291 V240 Q395 216 420 193 L460 153 Q475 139 475 113" fill="none" stroke="url(#glow)" stroke-width="4" stroke-linecap="round"/>
+<path d="M395 240 Q395 216 370 193 L330 153 Q315 139 315 113" fill="none" stroke="#7B98BD" stroke-width="4" stroke-linecap="round"/>
+<path d="M290 91 l25 -23 25 23 M450 91 l25 -23 25 23" fill="none" stroke="#AD9DB5" stroke-width="2" opacity=".7"/>
+<circle cx="315" cy="109" r="10" fill="#91A7CF"/><circle cx="475" cy="109" r="10" fill="#E9B087"/><circle cx="395" cy="294" r="10" fill="#CF9DBF"/>
+<text x="42" y="60" font-family="Arial,sans-serif" font-size="14" letter-spacing="2.5" fill="#C8A9CB">STORY / INTERACTIVE FICTION</text>
+<text x="42" y="121" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="47" font-weight="700" fill="#FEF6F3">岔路</text>
+<text x="42" y="158" font-family="Arial,sans-serif" font-size="18" fill="#DBCBDD">Rewrite the turning point.</text>
+<rect x="42" y="208" width="205" height="39" rx="19.5" fill="#4D3B61" stroke="#9D7CA4" />
+<text x="144" y="233" font-family="Arial,sans-serif" font-size="13" text-anchor="middle" fill="#F1DBEB" letter-spacing="1">CHOOSE YOUR PATH</text>
+<text x="42" y="296" font-family="Arial,sans-serif" font-size="14" fill="#9FB4CA">WORLD · CHOICE · CONSEQUENCE</text>
+</svg>
