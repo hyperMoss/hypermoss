@@ -17,7 +17,7 @@
 
 ## ✨ 精选项目
 
-近期重点投入的四个项目，涵盖 Android 客户端、AI 获客、互动剧情与模拟面试。项目介绍依据各仓库当前 README 整理。
+精选项目涵盖 Android 客户端、AI 获客、互动剧情与模拟面试。项目介绍依据各仓库当前 README 整理。
 
 <table>
   <tr>
@@ -51,6 +51,15 @@
 </table>
 
 <sub>封面为主页专用概念插画，并非应用运行截图。功能范围、部署方式与验证状态请以对应项目 README 为准。</sub>
+
+## 🚀 近期项目与探索
+
+| 项目 | 简介 | 方向 |
+| :--- | :--- | :--- |
+| [**bili2text**](https://github.com/hyperMoss/bili2text) | Bilibili 与本地音视频转文字，支持字幕获取、语音识别和批量任务；基于 [lanbinleo/bili2text](https://github.com/lanbinleo/bili2text) 的分支。 | Python / 语音识别 |
+| [**iPomodoro-Flutter**](https://github.com/hyperMoss/iPomodoro-Flutter) | 番茄钟与专注记录应用，包含计时、日历和统计；基于 [iHTCboy/iPomodoro-Flutter](https://github.com/iHTCboy/iPomodoro-Flutter) 的分支。 | Flutter / 效率工具 |
+| [**AI Growth Ops**](https://github.com/hyperMoss/ai-growth-ops) | 本地部署的多平台获客与运营系统，覆盖客户、线索、内容与经营分析；基于 [puppyfront-web/ai-growth-ops](https://github.com/puppyfront-web/ai-growth-ops) 的分支。 | AI / 运营工具 |
+| [**Open Pstack**](https://github.com/hyperMoss/open-pstack) | 面向编码代理的工程工作流与跨模型协作工具；基于 [arjitj2/open-pstack](https://github.com/arjitj2/open-pstack) 的分支。 | AI Agent / 工程工具 |
 
 ## 🧰 工具与实验
 
