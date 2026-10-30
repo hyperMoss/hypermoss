@@ -1,108 +1,45 @@
-<div align="center">
+## Abstract
 
-<img src="./assets/profile-hero.svg" width="100%" alt="hyperMoss — Build, learn, ship" />
+<p align="center"><b>你好，我是 hyperMoss。</b> 喜欢用代码解决具体问题，把想法打磨成可用的产品。</p>
 
-<br />
+<p align="center">
+  <img src="https://github-profile-trophy-flame.vercel.app/?username=hyperMoss&amp;theme=darkhub&amp;title=-Reviews" alt="GitHub 成就" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=hyperMoss&amp;theme=github-dark&amp;hide_border=true" alt="GitHub 连续贡献" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=hyperMoss&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=false&amp;hide_border=true&amp;theme=github_dark" alt="GitHub 统计" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=hyperMoss&amp;theme=github" alt="GitHub 活跃度图" width="100%" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nextjs,python,fastapi,kotlin,docker,git&amp;perline=10" alt="TypeScript, JavaScript, Vue, React, Next.js, Python, FastAPI, Kotlin, Docker, Git" />
+</p>
 
-**你好，我是 hyperMoss。** 喜欢用代码解决具体问题，也喜欢把零散的想法打磨成可用的产品。
+## Top Projects
 
-[![GitHub followers](https://img.shields.io/github/followers/hyperMoss?style=flat-square&logo=github&label=Followers)](https://github.com/hyperMoss?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/hyperMoss?style=flat-square&logo=github&label=Stars)](https://github.com/hyperMoss?tab=repositories)
-
-[**精选项目**](#-精选项目) &nbsp;·&nbsp; [**工具与实验**](#-工具与实验) &nbsp;·&nbsp; [**技术栈**](#-技术栈) &nbsp;·&nbsp; [**GitHub 活动**](#-github-活动)
-
-</div>
-
----
-
-## ✨ 精选项目
-
-精选项目涵盖 Android 客户端、AI 获客、互动剧情与模拟面试。项目介绍依据各仓库当前 README 整理。
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hyperMoss/qiafan"><img src="./assets/project-qiafan.svg" alt="恰饭 Qiafan 项目概念封面" width="100%"/></a>
-      <h3><a href="https://github.com/hyperMoss/qiafan">恰饭 · Qiafan ↗</a></h3>
-      <p>文字优先的饭否 Android 客户端，支持关注信息流、通知、搜索、动态详情及互动。保留 Kuikly 多平台工程，当前以 Android 体验为主。</p>
-      <p><code>Kotlin</code> <code>Android</code> <code>Kuikly</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hyperMoss/geiwokehu"><img src="./assets/project-growth.svg" alt="AI Growth Ops 项目概念封面" width="100%"/></a>
-      <h3><a href="https://github.com/hyperMoss/geiwokehu">AI Growth Ops · geiwokehu ↗</a></h3>
-      <p>本地运行的获客工作台。围绕抖音、小红书关键词素材与评论，实现潜客初筛、人工复核、客户管理、获客看板和手动触发的 AI 分析。</p>
-      <p><code>Next.js</code> <code>Python</code> <code>SQLite</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hyperMoss/story"><img src="./assets/project-story.svg" alt="岔路 Story 项目概念封面" width="100%"/></a>
-      <h3><a href="https://github.com/hyperMoss/story">岔路 · Story ↗</a></h3>
-      <p>面向故事作者的动态剧情推演 MVP。导入故事、编辑世界卡，从关键分歧点作出选择，持续推演剧情、修正草案并回顾不同路线。</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>AI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hyperMoss/interview-agents"><img src="./assets/project-interview-agents.svg" alt="面试练习室 Interview Agents 项目概念封面" width="100%"/></a>
-      <h3><a href="https://github.com/hyperMoss/interview-agents">面试练习室 · Interview Agents ↗</a></h3>
-      <p>中文 AI 模拟面试应用：根据简历与目标岗位规划题目，支持题库、联网搜索、动态重规划、逐题反馈、能力评估与复盘报告。</p>
-      <p><code>React</code> <code>NestJS</code> <code>Hono / Mastra</code></p>
-    </td>
-  </tr>
-</table>
-
-<sub>封面为主页专用概念插画，并非应用运行截图。功能范围、部署方式与验证状态请以对应项目 README 为准。</sub>
-
-## 🚀 近期项目与探索
-
-| 项目 | 简介 | 方向 |
+| 项目 | 简介 | Stars |
 | :--- | :--- | :--- |
-| [**bili2text**](https://github.com/hyperMoss/bili2text) | Bilibili 与本地音视频转文字，支持字幕获取、语音识别和批量任务；基于 [lanbinleo/bili2text](https://github.com/lanbinleo/bili2text) 的分支。 | Python / 语音识别 |
-| [**iPomodoro-Flutter**](https://github.com/hyperMoss/iPomodoro-Flutter) | 番茄钟与专注记录应用，包含计时、日历和统计；基于 [iHTCboy/iPomodoro-Flutter](https://github.com/iHTCboy/iPomodoro-Flutter) 的分支。 | Flutter / 效率工具 |
-| [**AI Growth Ops**](https://github.com/hyperMoss/ai-growth-ops) | 本地部署的多平台获客与运营系统，覆盖客户、线索、内容与经营分析；基于 [puppyfront-web/ai-growth-ops](https://github.com/puppyfront-web/ai-growth-ops) 的分支。 | AI / 运营工具 |
-| [**Open Pstack**](https://github.com/hyperMoss/open-pstack) | 面向编码代理的工程工作流与跨模型协作工具；基于 [arjitj2/open-pstack](https://github.com/arjitj2/open-pstack) 的分支。 | AI Agent / 工程工具 |
+| [恰饭 · Qiafan](https://github.com/hyperMoss/qiafan) | 文字优先的饭否 Android 客户端。 | ![Stars](https://img.shields.io/github/stars/hyperMoss/qiafan?style=flat-square) |
+| [AI Growth Ops · geiwokehu](https://github.com/hyperMoss/geiwokehu) | 本地获客工作台，涵盖潜客初筛、客户管理与 AI 分析。 | ![Stars](https://img.shields.io/github/stars/hyperMoss/geiwokehu?style=flat-square) |
+| [岔路 · Story](https://github.com/hyperMoss/story) | 面向故事作者的动态剧情推演工具。 | ![Stars](https://img.shields.io/github/stars/hyperMoss/story?style=flat-square) |
+| [面试练习室](https://github.com/hyperMoss/interview-agents) | 中文 AI 模拟面试与复盘应用。 | ![Stars](https://img.shields.io/github/stars/hyperMoss/interview-agents?style=flat-square) |
+| [dsh-diary](https://github.com/hyperMoss/dsh-diary) | DeepSeek Harness 的日记、搜索与模板管理插件。 | ![Stars](https://img.shields.io/github/stars/hyperMoss/dsh-diary?style=flat-square) |
+| [FLIGHT-TRACKER](https://github.com/hyperMoss/FLIGHT-TRACKER) | 航线价格监控与飞书推送。 | ![Stars](https://img.shields.io/github/stars/hyperMoss/FLIGHT-TRACKER?style=flat-square) |
 
-## 🧰 工具与实验
+## Recent Projects
 
-一些为解决具体问题而做的小工具，也包括持续学习过程中的探索。
-
-| 项目 | 简介 | 方向 |
+| 项目 | 简介 | 最近提交 |
 | :--- | :--- | :--- |
-| [**dsh-diary**](https://github.com/hyperMoss/dsh-diary) | DeepSeek Harness 的 Markdown 日记、全文搜索与模板管理插件 | AI / Plugin |
-| [**FLIGHT-TRACKER**](https://github.com/hyperMoss/FLIGHT-TRACKER) | 监控航线价格、筛选低价航班并推送飞书 | Python / Automation |
-| [**life-elephant**](https://github.com/hyperMoss/life-elephant) | 公司人数变化记录与趋势统计小程序 | Taro / Vue 3 |
-| [**vitepress-auto-config**](https://github.com/hyperMoss/vitepress-auto-config) | 按文件目录和 Markdown 标题生成 VitePress 导航的思路与示例 | JavaScript / Docs |
-| [**Swaggerjson-MockServer**](https://github.com/hyperMoss/Swaggerjson-MockServer) | 基于 Swagger 导出 JSON 的本地 Mock 服务 | Frontend / Tooling |
-| [**echarts-demo**](https://github.com/hyperMoss/echarts-demo) | 数据可视化与图表实践 | ECharts |
+| [bili2text](https://github.com/hyperMoss/bili2text) | Bilibili 与本地音视频转文字；基于 [lanbinleo/bili2text](https://github.com/lanbinleo/bili2text)。 | ![最近提交](https://img.shields.io/github/last-commit/hyperMoss/bili2text?style=flat-square) |
+| [qiafan](https://github.com/hyperMoss/qiafan) | 饭否 Android 客户端。 | ![最近提交](https://img.shields.io/github/last-commit/hyperMoss/qiafan?style=flat-square) |
+| [iPomodoro-Flutter](https://github.com/hyperMoss/iPomodoro-Flutter) | 番茄钟与专注记录；基于 [iHTCboy/iPomodoro-Flutter](https://github.com/iHTCboy/iPomodoro-Flutter)。 | ![最近提交](https://img.shields.io/github/last-commit/hyperMoss/iPomodoro-Flutter?style=flat-square) |
+| [AI Growth Ops](https://github.com/hyperMoss/ai-growth-ops) | 本地部署的多平台获客与运营系统；基于 [puppyfront-web/ai-growth-ops](https://github.com/puppyfront-web/ai-growth-ops)。 | ![最近提交](https://img.shields.io/github/last-commit/hyperMoss/ai-growth-ops?style=flat-square) |
+| [Open Pstack](https://github.com/hyperMoss/open-pstack) | 编码代理工程工作流；基于 [arjitj2/open-pstack](https://github.com/arjitj2/open-pstack)。 | ![最近提交](https://img.shields.io/github/last-commit/hyperMoss/open-pstack?style=flat-square) |
 
-## 🧑‍💻 技术栈
+<sub>项目列表为人工精选，日期与统计图片由第三方服务动态提供，可能暂时无法加载。功能范围和验证状态以各项目 README 为准。</sub>
 
-**日常关注**：Web 应用、跨端开发、AI Agent、自动化、工具链与工程实践。
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,vue,react,nextjs,python,fastapi,kotlin,docker,git&amp;perline=10" alt="TypeScript, JavaScript, Vue, React, Next.js, Python, FastAPI, Kotlin, Docker, Git" />
-
-</div>
-
-<sub>技术图标代表在项目和学习中涉及的工具，不代表熟练度排名。</sub>
-
-## 📈 GitHub 活动
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hyperMoss&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="hyperMoss GitHub 统计" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperMoss&amp;layout=compact&amp;hide_border=true" alt="hyperMoss 仓库语言分布" height="160"/>
-
-</div>
-
-<sub>统计卡片依赖第三方动态图片服务，可能偶尔限流或加载失败；语言占比仅反映仓库代码统计，不代表技术能力。</sub>
-
----
-
-<div align="center">
-
-**Keep learning. Keep building. Keep shipping.**
-
-[查看全部仓库](https://github.com/hyperMoss?tab=repositories) · [博客仓库](https://github.com/hyperMoss/hyperMoss.github.io)
-
-</div>
+<p align="center">Keep learning. Keep building. Keep shipping.<br />
+<a href="https://github.com/hyperMoss?tab=repositories">查看全部仓库</a> · <a href="https://github.com/hyperMoss/hyperMoss.github.io">博客仓库</a></p>
