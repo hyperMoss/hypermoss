@@ -3,8 +3,8 @@
 <p align="center"><b>你好，我是 hyperMoss。</b> 喜欢用代码解决具体问题，把想法打磨成可用的产品。</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyperMoss&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="hyperMoss GitHub 统计" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperMoss&amp;layout=compact&amp;hide_border=true" alt="hyperMoss 仓库语言分布" height="160"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=hyperMoss&amp;theme=default_repocard&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="hyperMoss GitHub 统计" height="160"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyperMoss&amp;theme=default_repocard&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="hyperMoss 仓库语言分布" height="160"/>
 </p>
 
 <p align="center">
